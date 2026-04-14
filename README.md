@@ -5,3 +5,5 @@ A lightweight app that uses a vision model with OCR to extract text. The text is
 **Vision Model**: Yolov8
 
 **OCR**: manga-ocr
+
+**Sentence Transformer**: LaBSE
