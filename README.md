@@ -2,15 +2,15 @@
 
 A lightweight app that uses a vision model with OCR to extract text. The text is then translated and the original and translated texts' embeddings are compared to see which lines may need human attention.
 
-# Instructions
-1. Clone the repository
-2. Run the app with ``python App.py``
-
 **Vision Model**: Yolov8m
 
 **OCR**: manga-ocr
 
 **Sentence Transformer**: LaBSE
+
+# Instructions
+1. Clone the repository
+2. Run the app with ``python App.py``
 
 # Screenshots
 <img width="1903" height="1029" alt="image" src="https://github.com/user-attachments/assets/23aa8dbc-14b3-4087-9fce-5f68cee8a7e1" />
